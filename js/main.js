@@ -12,8 +12,8 @@ const links = [
     { label: 'Project', url: 'https://abrenzink.github.io/movies_app/', },
     { label: 'Trello', url: 'https://trello.com/b/g2eL2r1l/team-4-board', },
     { label: 'Link repository SleepOutside Project', url: 'https://github.com/abrenzink/wdd330-team-4', },
-    { label: 'Link  SleepOutside Project', url: 'Sleep Outside | Home (abrenzink.github.io)', },
-    { label: 'Final Project', url: 'Final project document.docx - Documentos de Google', },
+    { label: 'Link  SleepOutside Project', url: 'https://abrenzink.github.io/wdd330-team-4/src/', },
+    { label: 'Final Project', url: 'https://docs.google.com/document/d/1Urc7Dty4rtEU4z3C7tXhjR0kG7MCwlr2/edit', },
   ];
   
     var list = document.getElementsByTagName('ol');
