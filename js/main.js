@@ -10,7 +10,11 @@ const links = [
     { label: 'L09 Readings', url: 'week5A/index.html', },
     { label: 'L010 Readings', url: 'week5B/index.html', },
     { label: 'Project', url: 'https://abrenzink.github.io/movies_app/', },
-    ];
+    { label: 'Trello', url: 'https://trello.com/b/g2eL2r1l/team-4-board', },
+    { label: 'Link repository SleepOutside Project', url: 'https://github.com/abrenzink/wdd330-team-4', },
+    { label: 'Link  SleepOutside Project', url: 'Sleep Outside | Home (abrenzink.github.io)', },
+    { label: 'Final Project', url: 'Final project document.docx - Documentos de Google', },
+  ];
   
     var list = document.getElementsByTagName('ol');
   
