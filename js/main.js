@@ -9,7 +9,7 @@ const links = [
     { label: 'L08 Readings', url: 'week4B/index.html', },
     { label: 'L09 Readings', url: 'week5A/index.html', },
     { label: 'L010 Readings', url: 'week5B/index.html', },
-    { label: 'Project', url: 'project/index.html', },
+    { label: 'Project', url: 'https://abrenzink.github.io/movies_app/', },
     ];
   
     var list = document.getElementsByTagName('ol');
